@@ -14,7 +14,7 @@ CC = g++
 #Compile with all errors and warnings
 CFLAGS = -g -Wall -Wextra -c
 
-#Links the .o files together 
+#Links the .o files together and creates an executable
 TARGET = employee
 
 #Readies $(TARGET) for use in the following code 
